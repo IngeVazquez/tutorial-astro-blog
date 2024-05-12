@@ -1,5 +1,6 @@
 ---
 import Navbar from "./components/navbar.astro"
+const pageTitle="Mi blog de astro home";
 ---
 
 <html lang="en">
@@ -8,7 +9,7 @@ import Navbar from "./components/navbar.astro"
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>{pageTitle}</title>
 	</head>
 <Navbar/>
 	<body>
