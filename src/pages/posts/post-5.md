@@ -1,12 +1,12 @@
 --- 
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Lia consigue un bate'
-pubDate: 2024-05-04
+pubDate: 22-05-2024
 description: 'Capitulo piloto, texto experimental.'
 author: '6lider'
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'El logotipo completo de Astro.'
+    url: ''
+    alt: ''
 tags: ["Las aventuras de Lia y Tom"]
 ---
 <!-- Fin frontmatter -->
