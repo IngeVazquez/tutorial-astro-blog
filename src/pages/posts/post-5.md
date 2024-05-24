@@ -1,7 +1,7 @@
 --- 
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Lia consigue un bate'
-pubDate: 22-05-2024
+pubDate: 2024-05-22
 description: 'Capitulo piloto, texto experimental.'
 author: '6lider'
 image:
